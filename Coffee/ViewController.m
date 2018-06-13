@@ -26,4 +26,8 @@
 }
 
 
+- (IBAction)calculateButton:(id)sender {
+    
+    NSLog(@"Calculate Pressed");
+}
 @end
